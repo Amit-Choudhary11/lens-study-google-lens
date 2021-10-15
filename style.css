@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(68, 248, 248);
+}
+
+#title{
+    font-family: 'Dancing Script', cursive;
+    color: blue;
+    background-color: rgb(133, 255, 255);
+    height: 70px;
+    padding: 10px;
+    margin-top:0;
+    border-radius: 50px;
+    width: 60%;
+    margin-top: 5px;
+    
+}
+
+.label{
+    font-size:xx-large;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(62, 48, 253);
+margin-top: 10px;
+
+
+}
+
+.images{
+    height: 200px;
+    width:150px;
+    border-color: aqua;
+    border-width: 5px;
+    border-radius: 10px;
+    border-style: solid;
+    box-shadow:5px 5px 20px aqua ;
+
+}
+
+.content{
+    background-color:white ;
+    width:250px;
+    height: 430;
+    margin-top: 50px;
+    margin:26.5px;
+    border-radius: 20px;
+    box-shadow:5px 5px 20px white ;
+    border-style: solid;
+    border-top-width:10px ;
+    border-color: white;
+}
+
+.output{
+    margin-top:10px ;
+    font-family: 'Dancing Script', cursive;
+    font-size: large;
+    color: rgb(62, 48, 253);
+}
+
+.answer{
+    margin-top:10px ;
+    font-family: 'Dancing Script', cursive;
+    font-size: large;
+    color: rgb(48, 239, 253);
+    font-weight:900;
+}
+
+#result_section{
+    background-color: rgb(133, 255, 255);
+    width: 40%;
+    margin-top: 500px;
+    text-align: center;
+    padding: 16px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 7px;
+    font-family: 'Dancing Script', cursive;
+    color: blue;
+    font-weight: 600;
+    box-shadow:5px 5px 20px white ;
+}
+
+#result_section_words{
+    background-color: rgb(133, 255, 255);
+    width: 40%;
+    text-align: center;
+    padding: 16px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 7px;
+    margin-top: -16;
+    font-family: 'Dancing Script', cursive;
+    color: blue;
+    font-weight: 600;
+    word-spacing: 2px;
+    box-shadow:5px 5px 20px white ;
+}
+
+
